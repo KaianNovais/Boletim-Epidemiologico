@@ -1,0 +1,22 @@
+@import "confirmados.css";
+@import "suspeitos.css";
+@import "recuperados.css";
+@import "descartados.css";
+@import "internados.css";
+@import "dadosGeral.css";
+@import "dadosDetalhados.css";
+body {
+    background: rgb(70,39,164);
+background: linear-gradient(90deg, rgba(70,39,164,1) 0%, rgba(197,84,227,1) 54%, rgba(230,202,227,1) 100%);
+  
+}
+main {
+    margin-top: 32px;
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+* {
+    margin: 0;
+    padding: 0;
+}

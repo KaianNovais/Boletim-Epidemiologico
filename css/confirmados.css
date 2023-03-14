@@ -1,0 +1,33 @@
+/* Div confirmados */
+.confirmados {
+    background-color: red;
+    border-radius: 0 50px 50px 0;
+    margin-bottom: 16px;
+    width: 700px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* H1 da Div confirmados */
+.confirmados__titulo {
+    margin-left: 24px;
+    font-family: 'Tilt Neon';
+    font-weight: 700;
+    color: whitesmoke;
+}
+/* H2 da Div confirmados */
+.confirmados__dados {
+    width: 80px;
+    height: 80px;
+    margin-right: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background-color: aliceblue;
+    color: red;
+    font-family: 'Tilt Neon';
+    font-weight: 700;
+    
+}
